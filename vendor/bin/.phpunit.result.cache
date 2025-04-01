@@ -1,0 +1,1 @@
+{"version":1,"defects":[],"times":{"Tests\\StringLengthTest::testNormalString":0.007,"Tests\\StringLengthTest::testEmptyString":0,"Tests\\StringLengthTest::testBananaString":0,"Tests\\StringLengthTest::testSpecialCharacters":0,"Tests\\StringLengthTest::testLongString":0}}
